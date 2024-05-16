@@ -59,8 +59,7 @@ alias dkps='docker ps --format "table {{.Names}}\t{{.Ports}}\t{{.Status}}" -f st
 ```bash
 reboot
 ```
-
----
+https://nodejs.org/en/download/package-manager
 
 ```bash
 # installs nvm (Node Version Manager)
